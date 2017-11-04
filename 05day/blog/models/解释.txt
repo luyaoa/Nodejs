@@ -1,0 +1,10 @@
+mvc
+m是专门操作数据库的 models
+v是呈现数据的 views
+c是将用户的数据展示到用户的视图上（控制）routes
+
+
+m
+ user.js 专门处理用户数据
+post	  专门处理文章的增删改
+db  链接数据库

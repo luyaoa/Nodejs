@@ -1,0 +1,5 @@
+npm install  --save  必须有的包
+npm install gulg --save-bev（bevDependencies 开发） 记录当前用的包
+npm install（i）  下载所有包
+
+   
